@@ -113,7 +113,7 @@ if uploaded_file is not None:
         if "High" in risk:
             st.write("1.Offer discount/cashback")
             st.write("2.Immediate customer support required")
-            st.write("3.Send piuuuuersonalized retention email")
+            st.write("3.Send personalized retention email")
 
         elif "Medium" in risk:
             st.write("1.Engage with email campaigns")
